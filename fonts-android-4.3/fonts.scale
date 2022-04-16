@@ -1,0 +1,533 @@
+532
+AndroidEmoji.ttf -monotype-android emoji-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidKufi-Bold.ttf -misc-droid arabic kufi-bold-r-normal--0-0-0-0-p-0-iso10646-1
+DroidKufi-Regular.ttf -misc-droid arabic kufi-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidNaskh-Bold.ttf -misc-droid arabic naskh-bold-r-normal--0-0-0-0-p-0-iso10646-1
+DroidNaskh-Regular-SystemUI.ttf -monotype-droid naskh shift alt-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidNaskh-Regular.ttf -misc-droid arabic naskh-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-adobe-standard
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-ascii-0
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-1
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-10
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-13
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-15
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-16
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-2
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-3
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-4
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-5
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-7
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-iso8859-9
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-koi8-e
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-koi8-r
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-koi8-ru
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-koi8-u
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-koi8-uni
+DroidSans-Bold.ttf -misc-droid sans-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-adobe-standard
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-ascii-0
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-1
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-10
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-13
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-15
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-16
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-2
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-3
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-4
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-5
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-7
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-iso8859-9
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-koi8-e
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-koi8-r
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-koi8-ru
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-koi8-u
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-koi8-uni
+DroidSans.ttf -misc-droid sans-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+DroidSansArabic.ttf -misc-droid sans arabic-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansArabic.ttf -misc-droid sans arabic-medium-r-normal--0-0-0-0-p-0-iso8859-6.16
+DroidSansArabic.ttf -misc-droid sans arabic-medium-r-normal--0-0-0-0-p-0-iso8859-6.8x
+DroidSansArmenian.ttf -monotype-droid sans armenian-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansDevanagari-Regular.ttf -monotype-droid sans devanagari-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansEthiopic-Bold.ttf -misc-droid sans ethiopic-bold-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansEthiopic-Regular.ttf -misc-droid sans ethiopic-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansFallback.ttf -misc-droid sans fallback-medium-r-normal--0-0-0-0-p-0-cns11643-1
+DroidSansFallback.ttf -misc-droid sans fallback-medium-r-normal--0-0-0-0-p-0-cns11643-2
+DroidSansFallback.ttf -misc-droid sans fallback-medium-r-normal--0-0-0-0-p-0-cns11643-3
+DroidSansFallback.ttf -misc-droid sans fallback-medium-r-normal--0-0-0-0-p-0-gb18030.2000-0
+DroidSansFallback.ttf -misc-droid sans fallback-medium-r-normal--0-0-0-0-p-0-gb2312.1980-0
+DroidSansFallback.ttf -misc-droid sans fallback-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansFallback.ttf -misc-droid sans fallback-medium-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+DroidSansFallback.ttf -misc-droid sans fallback-medium-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+DroidSansFallback.ttf -misc-droid sans fallback-medium-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+DroidSansFallback.ttf -misc-droid sans fallback-medium-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+DroidSansGeorgian.ttf -monotype-droid sans georgian-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansHebrew-Bold.ttf -misc-droid sans hebrew-semibold-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansHebrew-Regular.ttf -misc-droid sans hebrew-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-adobe-standard
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-ascii-0
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso10646-1
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-1
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-10
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-13
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-15
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-16
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-2
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-3
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-4
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-5
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-7
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-9
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-koi8-e
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-koi8-r
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-koi8-ru
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-koi8-u
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-koi8-uni
+DroidSansMono.ttf -misc-droid sans mono-medium-r-normal--0-0-0-0-m-0-microsoft-cp1252
+DroidSansTamil-Bold.ttf -monotype-droid sans tamil-bold-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansTamil-Regular.ttf -monotype-droid sans tamil-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSansThai.ttf -misc-droid sans thai-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-adobe-standard
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-ascii-0
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-1
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-10
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-13
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-15
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-16
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-2
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-3
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-4
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-5
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-7
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-iso8859-9
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-koi8-e
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-koi8-r
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-koi8-ru
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-koi8-u
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-koi8-uni
+DroidSerif-Bold.ttf -misc-droid serif-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-adobe-standard
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-ascii-0
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso10646-1
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-1
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-10
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-13
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-15
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-16
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-2
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-3
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-4
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-5
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-7
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-iso8859-9
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-koi8-e
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-koi8-r
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-koi8-ru
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-koi8-u
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-koi8-uni
+DroidSerif-BoldItalic.ttf -misc-droid serif-bold-i-normal--0-0-0-0-p-0-microsoft-cp1252
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-adobe-standard
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-ascii-0
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso10646-1
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-1
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-10
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-13
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-15
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-16
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-2
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-3
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-4
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-5
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-7
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-iso8859-9
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-koi8-e
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-koi8-r
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-koi8-ru
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-koi8-u
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-koi8-uni
+DroidSerif-Italic.ttf -misc-droid serif-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-adobe-standard
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-ascii-0
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso10646-1
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-1
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-10
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-13
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-15
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-16
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-2
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-3
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-4
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-5
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-7
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-iso8859-9
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-koi8-e
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-koi8-r
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-koi8-ru
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-koi8-u
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-koi8-uni
+DroidSerif-Regular.ttf -misc-droid serif-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+MTLc3m.ttf -misc-motoyalcedar-medium-r-normal--0-0-0-0-p-0-iso10646-1
+MTLc3m.ttf -misc-motoyalcedar-medium-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+MTLc3m.ttf -misc-motoyalcedar-medium-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+MTLc3m.ttf -misc-motoyalcedar-medium-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+MTLmr3m.ttf -misc-motoyalmaru-medium-r-normal--0-0-0-0-p-0-iso10646-1
+MTLmr3m.ttf -misc-motoyalmaru-medium-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+MTLmr3m.ttf -misc-motoyalmaru-medium-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+MTLmr3m.ttf -misc-motoyalmaru-medium-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-adobe-standard
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-ascii-0
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso10646-1
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-1
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-10
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-13
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-15
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-16
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-2
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-3
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-4
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-7
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-iso8859-9
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-koi8-e
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-koi8-r
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-koi8-ru
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-koi8-u
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-koi8-uni
+Roboto-Black.ttf -misc-roboto black-black-r-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-adobe-standard
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-ascii-0
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso10646-1
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-1
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-10
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-13
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-15
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-16
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-2
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-3
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-4
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-7
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-iso8859-9
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-koi8-e
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-koi8-r
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-koi8-ru
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-koi8-u
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-koi8-uni
+Roboto-BlackItalic.ttf -misc-roboto black-black-i-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-adobe-standard
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-ascii-0
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso10646-1
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-1
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-10
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-13
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-15
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-2
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-3
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-4
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-7
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-iso8859-9
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-koi8-e
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-koi8-r
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-koi8-ru
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-koi8-u
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-koi8-uni
+Roboto-Bold.ttf -misc-roboto-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-adobe-standard
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-ascii-0
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso10646-1
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-1
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-10
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-13
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-15
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-16
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-2
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-3
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-4
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-7
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-iso8859-9
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-koi8-e
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-koi8-r
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-koi8-ru
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-koi8-u
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-koi8-uni
+Roboto-BoldItalic.ttf -misc-roboto-bold-i-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-adobe-standard
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-ascii-0
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso10646-1
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-1
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-10
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-13
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-15
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-16
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-2
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-3
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-4
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-7
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-iso8859-9
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-koi8-e
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-koi8-r
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-koi8-ru
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-koi8-u
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-koi8-uni
+Roboto-Italic.ttf -misc-roboto-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-adobe-standard
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-ascii-0
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso10646-1
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-1
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-10
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-13
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-15
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-16
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-2
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-3
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-4
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-7
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-iso8859-9
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-koi8-e
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-koi8-r
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-koi8-ru
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-koi8-u
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-koi8-uni
+Roboto-Light.ttf -misc-roboto light-light-r-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-adobe-standard
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-ascii-0
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso10646-1
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-1
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-10
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-13
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-15
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-16
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-2
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-3
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-4
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-7
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-iso8859-9
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-koi8-e
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-koi8-r
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-koi8-ru
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-koi8-u
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-koi8-uni
+Roboto-LightItalic.ttf -misc-roboto light-light-i-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-adobe-standard
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-ascii-0
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-1
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-10
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-13
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-15
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-4
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-7
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-koi8-e
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-koi8-r
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-koi8-ru
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-koi8-u
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-koi8-uni
+Roboto-Medium.ttf -misc-roboto medium-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-adobe-standard
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-ascii-0
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-10
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-13
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-16
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-7
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-koi8-e
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-koi8-r
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-koi8-ru
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-koi8-u
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-koi8-uni
+Roboto-MediumItalic.ttf -misc-roboto medium-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-adobe-standard
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-ascii-0
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso10646-1
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-1
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-10
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-13
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-15
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-2
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-3
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-4
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-7
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-iso8859-9
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-koi8-e
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-koi8-r
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-koi8-ru
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-koi8-u
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-koi8-uni
+Roboto-Regular.ttf -misc-roboto-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-adobe-standard
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-ascii-0
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso10646-1
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-1
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-10
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-13
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-15
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-2
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-3
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-4
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-5
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-7
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-iso8859-9
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-koi8-e
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-koi8-r
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-koi8-ru
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-koi8-u
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-koi8-uni
+Roboto-Thin.ttf -misc-roboto thin-light-r-normal--0-0-0-0-p-0-microsoft-cp1252
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-adobe-standard
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-ascii-0
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso10646-1
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-1
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-10
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-13
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-15
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-2
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-3
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-4
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-5
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-7
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-iso8859-9
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-koi8-e
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-koi8-r
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-koi8-ru
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-koi8-u
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-koi8-uni
+Roboto-ThinItalic.ttf -misc-roboto thin-light-i-normal--0-0-0-0-p-0-microsoft-cp1252
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-adobe-standard
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-ascii-0
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso10646-1
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-1
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-10
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-13
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-15
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-16
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-2
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-3
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-4
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-7
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-iso8859-9
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-koi8-e
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-koi8-r
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-koi8-ru
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-koi8-u
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-koi8-uni
+RobotoCondensed-Bold.ttf -misc-roboto condensed-bold-r-condensed--0-0-0-0-p-0-microsoft-cp1252
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-adobe-standard
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-ascii-0
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso10646-1
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-1
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-10
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-13
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-15
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-16
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-2
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-3
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-4
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-7
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-iso8859-9
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-koi8-e
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-koi8-r
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-koi8-ru
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-koi8-u
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-koi8-uni
+RobotoCondensed-BoldItalic.ttf -misc-roboto condensed-bold-i-condensed--0-0-0-0-p-0-microsoft-cp1252
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-adobe-standard
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-ascii-0
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso10646-1
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-1
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-10
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-13
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-15
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-16
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-2
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-3
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-4
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-7
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-iso8859-9
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-koi8-e
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-koi8-r
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-koi8-ru
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-koi8-u
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-koi8-uni
+RobotoCondensed-Italic.ttf -misc-roboto condensed-medium-i-condensed--0-0-0-0-p-0-microsoft-cp1252
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-adobe-standard
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-ascii-0
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso10646-1
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-1
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-10
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-13
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-15
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-16
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-2
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-3
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-4
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-7
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-iso8859-9
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-koi8-e
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-koi8-r
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-koi8-ru
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-koi8-u
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-koi8-uni
+RobotoCondensed-Light.ttf -misc-roboto condensed light-light-r-condensed--0-0-0-0-p-0-microsoft-cp1252
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-adobe-standard
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-ascii-0
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso10646-1
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-1
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-10
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-13
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-15
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-16
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-2
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-3
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-4
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-7
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-iso8859-9
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-koi8-e
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-koi8-r
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-koi8-ru
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-koi8-u
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-koi8-uni
+RobotoCondensed-LightItalic.ttf -misc-roboto condensed light-light-i-condensed--0-0-0-0-p-0-microsoft-cp1252
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-adobe-standard
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-ascii-0
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso10646-1
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-1
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-10
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-13
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-15
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-16
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-2
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-3
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-4
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-5
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-7
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-iso8859-9
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-koi8-e
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-koi8-r
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-koi8-ru
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-koi8-u
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-koi8-uni
+RobotoCondensed-Regular.ttf -misc-roboto condensed-medium-r-condensed--0-0-0-0-p-0-microsoft-cp1252
